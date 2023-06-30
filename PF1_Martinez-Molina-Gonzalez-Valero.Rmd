@@ -1,0 +1,50 @@
+---
+title: "REMESAS Y CRECIMIENTO ECONÓMICO EN MÉXICO Y GUATEMALA DURANTE EL PERÍODO 1980-2020"
+author: "Martinez, Miklos; Molina, Albany; Gonzalez, Hugo y Valero, Eduard"
+date: "2023-06-29"
+output: 
+html_document:
+  toc: yes
+  toc_depth: 2
+long: es-ES
+---
+## Tópico a abordar/ interrogantes de a ser contestadas:
+
+### Tópico a abordar: Analizar el impacto de las remesas en el crecimiento económico de Guatemala y México (PIB) para el período 1980-2020.
+
+Las economías en desarrollo tienen oportunidades laborales y un crecimiento económico que suele venir con importantes tasas de migración, más altas en comparación a los países desarrollados. Son diversos los factores determinantes de la migración de los ciudadanos de estos países, pero todos desembocan en una acción que fomenta el envío de remesas hacia el país de origen y que, termina convirtiéndose en un factor importante dentro del desempeño económico de estos países. Esto se puede estudiar a través del PIB real. 
+
+Para evidenciar y cuantificar esta relación, se llevará a cabo un análisis empírico utilizando datos de series de tiempo y un modelo econométrico. El análisis se centrará en determinar si existe una relación significativa entre las remesas y el crecimiento económico, y en qué medida las remesas contribuyen al crecimiento económico de Guatemala y de México.
+
+### Interrogantes a ser contestadas: 
+   1. ¿Existe una relación significativa entre las remesas y el crecimiento económico de Guatemala y de México?
+   2. Si existe, ¿cómo es la relación y la endogeneidad entre las remesas y el crecimiento económico  de Guatemala y México para el período en estudio?
+   
+## Título Propuesto del proyecto:
+
+REMESAS Y CRECIMIENTO ECONÓMICO EN MÉXICO Y GUATEMALA DURANTE EL PERÍODO 1980-2020
+
+## Justificación del tópico elegido:
+
+Este proyecto permite la elaboración y análisis del comportamiento de las remesas y su incidencia en el crecimiento económico de Guatemala y México, aportando evidencias cuantitativas de relevancia que pueden ser de utilidad para el estudio de países con estructuras de PIB similares, como lo pueden ser los países centroamericanos (caso Guatemala), o también, países caracterizados por ser históricamente receptores de remesas (caso México).
+
+Ambos países son importantes receptores de remesas que representan una fuente significativa de ingresos para las familias receptoras y pueden tener un impacto importante en la economía nacional.  Además, conocer cómo las remesas están relacionadas con el crecimiento económico en estos países puede ayudar a los hacedores de política a tomar mejores decisiones sobre cómo fomentar el crecimiento económico y mejorar las condiciones económicas y sociales de la población.
+
+## Descripción de datos a utilizar:
+
+Utilizaremos una data anual con variables del PIB (miles de millones de dólares) e ingresos por remesas, una variable como porcentaje del PIB y otra como medida en dólares,  para ambos países desde 1980 hasta 2020. A su vez, también disponemos de variables de migración y población total por año, lo cual nos va a permitir hacer ciertos análisis comparativos entre los dos países. Estos datos provienen del Banco Mundial. 
+
+## Metodología a utilizar para dar respuesta al planteamiento: 
+
+La metodología a utilizar será un análisis a través de un Modelo de Regresión Lineal que permita observar y explicar la relación entre ambas variables para ambos países: México y Guatemala.
+
+Asimismo, también se dispondrá de análisis de la correlación de estas dos variables para corroborar y comparar la fuerza, dirección y proporcionalidad de las dos variables por país. 
+
+
+
+
+
+
+   
+
+
